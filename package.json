@@ -1,7 +1,7 @@
 {
 	"name": "mi-repertorio",
 	"version": "1.0.0",
-    "type": "module",
+	"type": "module",
 	"description": "Servidor Express para gestionar un repertorio de canciones (CRUD) usando filesystem.",
 	"main": "index.js",
 	"scripts": {
